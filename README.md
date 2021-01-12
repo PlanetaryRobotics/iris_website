@@ -1,4 +1,4 @@
-# iris_website
+# Iris Website
 
 This is the code for the Iris published website.
 
