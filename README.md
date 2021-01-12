@@ -16,7 +16,8 @@ This is the code for the Iris published website.
 | Version | ID | Start Date | Release Date | Description |
 | --- | --- | --- | --- | --- |
 | v1.0 | JD | 10/2020 | 01/2020 | Designed by Ray |
-| v2.0 | AIF | 01/2020 | Present | Designed by Alessandra |
+| v2.0 | AIF | 01/2020 | 01/2020 | Designed by Alessandra |
+| v2.0 | AIF & RAD | 01/2020 | Present | Edited with Leads Input |
 
 ## Software Structure
 
