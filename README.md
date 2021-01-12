@@ -8,7 +8,7 @@ This is the code for the Iris published website.
 | ID | Full Name | Email |
 | --- | --- | --- |
 | RAD | Raewyn Duvall | raewynd@cmu.edu |
-| AF | Alessandra Fleck | afleck@alumni.cmu.edu |
+| AIF | Alessandra Fleck | afleck@alumni.cmu.edu |
 | JD | Jinglun Ding | jinglund@andrew.cmu.edu |
 
 ###### Versions
