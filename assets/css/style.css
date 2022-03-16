@@ -3396,15 +3396,15 @@ body,
 }
 
 .p-style-small {
-	font-size: 14px;
-	line-height: 2.15;
+	font-size: 18px;
+	line-height: 1.8;
 	font-weight: 400;
-	letter-spacing: 1px;
+	letter-spacing: 0px;
 	font-family: 'Open Sans', sans-serif;
 }
 
 .p-style-medium {
-	font-size: 16px;
+	font-size: 20px;
 	line-height: 1.8;
 	font-weight: 600;
 	letter-spacing: 0px;
@@ -3412,7 +3412,7 @@ body,
 }
 
 .p-style-large {
-	font-size: 18px;
+	font-size: 22px;
 	line-height: 1.8;
 	font-weight: 400;
 	letter-spacing: 0px;
@@ -5093,7 +5093,7 @@ body.anim .load-title-fill:after {
 }
 
 .dark-bg-2 .title-fill:after {
-	background: #1b2a2f;
+	background: #000000;
 }
 
 .red-bg .title-fill:after {
