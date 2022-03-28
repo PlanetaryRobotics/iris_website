@@ -3342,6 +3342,15 @@ body,
 	font-family: 'Oswald', sans-serif;
 }
 
+.small-title {
+	text-transform: uppercase;
+	font-size: 35px;
+	line-height: 1.13;
+	font-weight: 500;
+	letter-spacing: 3px;
+	font-family: 'Oswald', sans-serif;
+}
+
 .medium-title {
 	text-transform: uppercase;
 	font-size: 45px;
