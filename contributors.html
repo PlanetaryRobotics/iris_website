@@ -7,7 +7,7 @@
         <title>IRIS Contributors</title>
 
 		<!-- js scripts -->
-		<script src = "assets/js/csv_to_table.js" type = "text/javascript"/></script>
+		<script src = "assets/js/csv_to_table.js" type = "text/javascript"></script>
 
 		<!-- fonts -->
 		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700%7COswald:300,400,500,600,700" rel="stylesheet" type="text/css">
@@ -313,24 +313,31 @@
 
 			<!-- section start -->
 			<section class="dark-bg-1">
+				
+				<!-- container start -->
 				<div class="container bottom-padding-60 top-padding-60">
 					<!-- text-center start -->
 					<div data-animation-container class="text-center container small">
 					<h2 data-animation-child class="large-title text-height-10 title-fill" data-animation="title-fill-anim" data-text="Our Donors">Our Donors</h2><br>
 					<p data-animation-child class="tr-delay02 xsmall-title-oswald top-margin-5 title-fill" data-animation="title-fill-anim" data-text="Contributors to our dream">Contributors to our dream</p>
 					<p data-animation-child class="text-color-5 p-style-small fade-anim-box tr-delay04" data-animation="fade-anim">The following individuals and many more anonymous contributors have donated to the team, getting us one step closer to achieving our dream. Their names will go to the Moon onboard Iris, as a token of our appreciation.</p>
-				</div><!-- container end -->
+				</div>
+
 				<!-- container start -->
-				<div id = "my_div" class="container small top-bottom-padding-120 text-color-5 p-style-small text-height-5">
-					<!-- medium-title start -->
-					<script>getData("my_div", 'donation.csv') </script>
-				</div><!-- container end -->
+				<div id="donors" class="container small top-bottom-padding-120 text-color-5 p-style-small text-height-5">
+					<script>
+						// include donor list w csv_to_table.js
+						createTable("donors", 'donation.csv')
+					</script>
+				</div>
+				<!-- container end -->
 		
 				<div class="container bottom-padding-60">
 					<!-- text-center start -->
 					<div data-animation-container class="text-center container small">
 					<p data-animation-child class="text-color-5 p-style-small" data-animation="fade-anim"> * A special thank you to those who gave a significant amount over $1,000.</p>
-				</div><!-- container end -->
+				</div>
+				<!-- container end -->
 				
 			</section><!-- section end -->
 				
@@ -354,9 +361,6 @@
 				</div><!-- column end -->
 				<!-- column start -->
 
-
-				
-				
 				<!-- column start -->
 				<div class="three-columns bottom-padding-60">
 					<div class="content-left-margin-10">
