@@ -9337,3 +9337,9 @@ textarea.form-input {
 	}
 		
 }
+
+#donors, #team {
+	display: flex; 
+	justify-content: center; 
+	align-items: center;
+}

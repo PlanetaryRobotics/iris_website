@@ -1,8 +1,8 @@
 // csv_to_table.js
 
-async function getData(div_name, data_file) {
+async function createTable(div_name, data_file) {
     //  read data from csv;
-    const response = await fetch('donation.csv');
+    const response = await fetch(data_file);
     const data = await response.text();
     const donation_data_table = data.split('\n').slice(1);
     const num_donors = donation_data_table.length;
