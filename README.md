@@ -60,7 +60,7 @@ This is the code for the Iris published website.
 
 #### Mission
 
-+ This page is lacking in so many ways... Needs full restructure or remove.
++ This page is lacking in so many ways... Needs almost full restructure or remove.
 	*Maybe check out bigcartel We Are Iris page*
 + ? Operations Team section
 + Mission Logs omg
