@@ -64,7 +64,8 @@ This is the code for the Iris published website.
 	*Maybe check out bigcartel We Are Iris page*
 + ? Operations Team section
 + Mission Logs omg
-	+ *TBD*
+	+ Move current log on the website to the interest.html page so we can keep the info. 
+	+ Talk to Nikolai about what we want for a mission control page. 
 
 #### Team
 
@@ -73,7 +74,7 @@ This is the code for the Iris published website.
 	+ Nikolai - Mission Control Lead
 	+ Connor - Engineering Lead
 	+ ? Color images for Leadership headshots
-	+ ? Add Team Leads (Josh - Mission Operations Team Lead, Bobby - MoonYard Team Lead, Divya - Logistics Team Lead)
+	+ Add Team Leads (Josh - Mission Operations Team Lead, Bobby - MoonYard Team Lead, Divya - Logistics Team Lead(remove Divya from past leads))
 2. Leadership Bios
 	+ Update Bios (for all but Red...)
 		+ Raewyn
