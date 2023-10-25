@@ -22,7 +22,7 @@ async function createTable(div_name, data_file) {
 
         // Inner cell (for vertical alignment)
         const cellInner = document.createElement("div");
-        cellInner.style = "display: table-cell;vertical-align: middle; padding: 5px;";
+        cellInner.style = "display: table-cell; vertical-align: middle; align: center; padding: 5px;";
         cell.appendChild(cellInner);
 
         // Text
