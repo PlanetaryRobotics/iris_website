@@ -12,6 +12,8 @@ This is the code for the Iris published website.
 | AIF | Alessandra Fleck | afleck@alumni.cmu.edu |
 | IH | Ivy He | xhe2@andrew.cmu.edu |
 | JD | Jinglun Ding | jinglund@andrew.cmu.edu |
+| JJ | Jeffery John | jefferyjohn@cmu.edu |
+
 
 #### Versions
 
@@ -22,6 +24,7 @@ This is the code for the Iris published website.
 | v2.0 | AIF & RAD | 01/2020 | N/A | Edited with Leads Input |
 | v3.0 | IH |  |  |  |
 | v4.0 | RAD | 03/2023 | 03/2023 | Updates for Media |
+| v4.1 | JJ | 01/2024 | 01/2024 | Updates for Media |
 
 ## Software Structure
 
