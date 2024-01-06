@@ -25,6 +25,7 @@ This is the code for the Iris published website.
 | v3.0 | IH |  |  |  |
 | v4.0 | RAD | 03/2023 | 03/2023 | Updates for Media |
 | v4.1 | JJ | 01/2024 | 01/2024 | Updates for Media |
+| v4.2 | JJ | 01/2024 | 01/2024 | Add Launch Countdown Page |
 
 ## Software Structure
 
