@@ -14,6 +14,7 @@ This is the code for the Iris published website.
 | JD | Jinglun Ding | jinglund@andrew.cmu.edu |
 | JJ | Jeffery John | jefferyjohn@cmu.edu |
 | DR | Dhruva Reddy | dhruvareddy@cmu.edu |
+| LM | Lance Miller | lancem@andrew.cmu.edu |
 
 
 #### Versions
@@ -28,6 +29,7 @@ This is the code for the Iris published website.
 | v4.1 | JJ | 01/2024 | 01/2024 | Updates for Media |
 | v4.2 | JJ | 01/2024 | 01/2024 | Add Launch Countdown Page |
 | v4.3 | DR | 01/2024 | 01/2024 | Post Launch Updates |
+| v4.4 | LM | 02/2024 | 02/2024 | Post Mission Updates |
 
 ## Software Structure
 
