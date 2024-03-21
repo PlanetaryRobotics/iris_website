@@ -29,7 +29,7 @@ This is the code for the Iris published website.
 | v4.1 | JJ | 01/2024 | 01/2024 | Updates for Media |
 | v4.2 | JJ | 01/2024 | 01/2024 | Add Launch Countdown Page |
 | v4.3 | DR | 01/2024 | 01/2024 | Post Launch Updates |
-| v4.4 | LM | 02/2024 | 02/2024 | Post Mission Updates |
+| v4.4 | LM | 02/2024 | 03/2024 | Post Mission: Donor, Press Updates |
 
 ## Software Structure
 
